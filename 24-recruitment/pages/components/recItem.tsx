@@ -4,5 +4,5 @@ type Props = {
 };
 export default function recItem(props: Props) {
   const { data } = props;
-  return <div>{data}</div>;
+  return <div>{"test"}</div>;
 }
